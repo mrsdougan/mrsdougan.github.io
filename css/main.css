@@ -169,6 +169,13 @@ a:after {
 	text-transform: uppercase;
 }
 
+#headerwrap h3   {
+    color: white;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
 /* Dark Grey Wrap */
 #dg {
 	background: #e0e0e0;
@@ -250,6 +257,7 @@ a:after {
 
 .w {
 	padding-top: 35px;
+    padding-bottom: 55px;
 }
 
 .w h4 {
@@ -407,6 +415,10 @@ a:after {
 
 .pricing-option .pricing-signup:hover {
     background: #ff7878;
+}
+
+.page-content {
+    padding-top: 80px;
 }
 
 
